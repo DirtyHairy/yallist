@@ -2,7 +2,7 @@
   "name": "yallist",
   "version": "4.0.0",
   "description": "Yet Another Linked List",
-  "main": "yallist.js",
+  "main": "yallist-compiled.js",
   "directories": {
     "test": "test"
   },
